@@ -1,5 +1,5 @@
 # Genetic-and-Metabolic-Engineering
-This project uses Flux Balance Analysis (FBA) with E. coli to explore metabolic adaptation to oxygen and carbon source changes, with applications in synthetic biology.
+This project focuses on genetic and metabolic engineering to optimize biological systems using Flux Balance Analysis (FBA). With E. coli as a model, it explores how the bacterium adapts its metabolism under varying oxygen levels and carbon sources, with applications in synthetic biology and biomolecule production.
 
 ## Evaluating E. coli Growth Under Various Metabolic Conditions
 ### Objective
