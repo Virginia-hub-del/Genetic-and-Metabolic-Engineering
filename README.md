@@ -34,7 +34,7 @@ This project focuses on enzyme and metabolic engineering for the production of n
 The project includes a PDF titled **"Enzyme and Metabolic Engineering"**, which presents a scientific paper on enzyme engineering and metabolic pathways for biopolymer synthesis.
 
 ### Contents  
-- [Enzyme and Metabolic Engineering.pdf](Enzyme%20and%20Metabolic%20Engineering.pdf)  
+- [Enzyme and Metabolic Engineering.pdf](Enzyme%20and%20metabolic%20engineering.pdf)  
   The file provides a detailed analysis of the crossover between biological and chemical processes in the context of enzyme and metabolic engineering.
 
 ---
